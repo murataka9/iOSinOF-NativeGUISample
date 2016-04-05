@@ -7,6 +7,4 @@ OR
 /of_v0.9.3_ios_release /apps /myApps /Slider Sample /Slider Sample.xcodeproj
 
 ## Sorry
-This project is not yet completed. So if you open project, iOS simurator screen was white out. Please wait conpleted.:)
-
-
+This project is not yet completed. So if you open project, iOS simurator screen was white out. Please wait completed.:)
