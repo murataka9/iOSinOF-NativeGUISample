@@ -16,6 +16,7 @@ class ofApp : public ofxiOSApp {
         void touchDoubleTap(ofTouchEventArgs & touch);
         void touchCancelled(ofTouchEventArgs & touch);
 
+    
         void lostFocus();
         void gotFocus();
         void gotMemoryWarning();

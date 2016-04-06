@@ -1,6 +1,9 @@
 # iOSinOF-NativeGUISample
 It can be running  iOS UIView on openFrameworks. (Obj-C)
 
+## Device
+iOS 9~
+
 ## How to Open Project
 Open the Slider Sample alias 
 OR

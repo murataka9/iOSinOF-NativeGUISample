@@ -14,6 +14,7 @@ void ofApp::setup(){
     ofxiPhoneAlerts.addListener(this);
     
     myGuiViewController = [[MyGuiView alloc] initWithNibName:@"MyGuiView" bundle:nil];
+    
     [ofxiPhoneGetGLView() addSubview:myGuiViewController.view];
     
     
